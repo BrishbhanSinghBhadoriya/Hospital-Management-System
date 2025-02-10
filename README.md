@@ -10,9 +10,13 @@ Admin
 Receptionist.
 There are three main actors of the system who going to manage or run the complete application. Let’s discuss one by one according to the role and readabilities.
 
+
+
 Modules
 Admin
 Admin is the main actor who will be responsible for managing Doctors and Receptionists. Below is the task list which will be performed by admin.
+
+
 
 Admin can ADD/DELETE/UPDATE a doctor.
 Admin can VIEW the list of doctors.
@@ -20,10 +24,14 @@ Admin can ADD/DELETE/UPDATE a receptionist.
 Admin can VIEW the list of receptionists.
 Admin can ADD/DELETE/UPDATE a patient.
 Admin can ADD/DELETE/UPDATE a appointments.
+
+
 Doctor:
 Doctor can check the appointment and the patient list.
 Doctor can VIEW the appointments.
 The doctor can VIEW the patient list.
+
+
 Receptionist:
 Receptionist can ADD/EDIT/VIEW appointments.
 Receptionist can ADD/EDIT/VIEW patient .
@@ -33,4 +41,4 @@ Technology used in the Hospital Management System project in java
 Front -End Jsp, Html, CSS, JS.
 Server-side: Servlet.
 Back-end: MYSQL.
-Server: Tomcat 8.5.
+Server: Tomcat 9.0.
